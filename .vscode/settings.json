@@ -78,6 +78,7 @@
         "semaphore": "cpp",
         "span": "cpp",
         "sstream": "cpp",
-        "variant": "cpp"
+        "variant": "cpp",
+        "forward_list": "cpp"
     }
 }
