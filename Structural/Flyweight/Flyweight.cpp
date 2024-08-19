@@ -110,8 +110,8 @@ public:
         else
         {
             std::cout << "FlyweightFactory: Reusing existing flyweight.\n";
-            return this->flyweights_.at(key);
         }
+        return this->flyweights_.at(key);
     }
 
     void ListFlyweights() const
